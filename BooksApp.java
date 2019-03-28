@@ -10,7 +10,7 @@ public class BooksApp{
     public static void main(String[] args) {
 
         //You'll need to change the path of the csv file
-        String file = "/Users/adgardner/IdeaProjects/CSIS24202/src/A00Books/BootStrap";
+        String file = "[file_path]";
         getList(file);
     }
 }
